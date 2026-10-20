@@ -53,7 +53,8 @@ export default buildConfig({
   ],
   cors: [
     // Add your frontend URL here
-    'http://localhost:3001',
+    'https://aistartupmag.vercel.app',
+    "https://aistartupmag.com"
   ],
 
   maxDepth: 3,
